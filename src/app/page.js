@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <div>
-        <p>INI PORTFOLIO YAA</p>
+        <p>INI PORTFOLIO YAA EDITTT</p>
       </div>
     </div>
   )
